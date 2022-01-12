@@ -1,0 +1,4 @@
+# file extensions
+.env
+*.csv
+*.pkl
